@@ -3388,17 +3388,17 @@ files = [
 
 [[package]]
 name = "psycopg-pool"
-version = "3.2.0"
+version = "3.2.1"
 description = "Connection Pool for Psycopg"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "psycopg-pool-3.2.0.tar.gz", hash = "sha256:2e857bb6c120d012dba240e30e5dff839d2d69daf3e962127ce6b8e40594170e"},
-    {file = "psycopg_pool-3.2.0-py3-none-any.whl", hash = "sha256:73371d4e795d9363c7b496cbb2dfce94ee8fbf2dcdc384d0a937d1d9d8bdd08d"},
+    {file = "psycopg-pool-3.2.1.tar.gz", hash = "sha256:6509a75c073590952915eddbba7ce8b8332a440a31e77bba69561483492829ad"},
+    {file = "psycopg_pool-3.2.1-py3-none-any.whl", hash = "sha256:060b551d1b97a8d358c668be58b637780b884de14d861f4f5ecc48b7563aafb7"},
 ]
 
 [package.dependencies]
-typing-extensions = ">=3.10"
+typing-extensions = ">=4.4"
 
 [[package]]
 name = "ptyprocess"
